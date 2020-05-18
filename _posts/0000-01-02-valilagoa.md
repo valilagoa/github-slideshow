@@ -1,7 +1,6 @@
-
 -------------
 layout: hola
-i forgot: hola
+title: hola
 -------------
 
-This is my second slide.
+This is my second slide. There was a change on line 5
